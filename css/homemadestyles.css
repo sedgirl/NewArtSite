@@ -1,0 +1,82 @@
+.subheading{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.heading{
+    color: rgb(9, 9, 109)!important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    font-size: larger !important;
+}
+
+.listitems{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif!important;
+    font-size: larger!important;
+}
+
+.links{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif!important;
+    font-size: small!important;
+    color:blue
+}
+
+body{
+    background-color: blanchedalmond!important;
+}
+
+.header{
+    top: 5px !important;
+    left: 5px!important;
+    right: 5px !important;
+    height: 50px !important;
+    
+    float: right;
+}
+
+.centereverything{
+    display: block;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+.submenu{
+    top: 5px !important;
+    left: 5px !important;
+    height: 50px !important;
+   
+}
+
+.mainbody{
+    top: 114px !important;
+    left: 114px !important;
+    padding: 5px !important;
+   
+    z-index: 3 !important;
+    text-align: center !important;
+}
+
+.footer{
+    bottom: 5px !important;
+    left: 5px !important;
+    right: 5px !important;
+    height: 25px !important;
+    font-size: 8px !important;
+    color: #999 !important;
+    text-align:center !important;
+    padding-top: 40px !important;
+}
+
+.tableauformatting{
+    width: 65%;
+    margin: auto;
+    padding-top: 5px;
+}
+
+div.Artists{
+    text-align: center;
+}
+
+ol.centeredlist{
+    display: inline-block;
+    text-align: left;
+}
+
